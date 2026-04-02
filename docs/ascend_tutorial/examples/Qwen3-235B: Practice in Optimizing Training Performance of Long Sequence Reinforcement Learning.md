@@ -19,7 +19,7 @@
 | MindSpeed   | 35da6ac         |
 | Megatron-LM | core_v0.12.1    |
 | torch       | 2.7.1           |
-| toch-npu    | 2.7.1-0919      |
+| torch-npu    | 2.7.1-0919      |
 
 MindSpeed-RL 2.2.0商发配套版本：
 
